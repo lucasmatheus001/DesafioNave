@@ -8,5 +8,5 @@ app.use('/api', require('./src/controllers/NaversController').router)
 app.use('/api', require('./src/controllers/ProjectsController').router)
 
 app.listen(port, () => {
-    console.log('Listening on port: ' + port)
+    console.log('Escutando na porta: ' + port)
 })
