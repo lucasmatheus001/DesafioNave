@@ -16,7 +16,7 @@
   
   ## Configuração
   
-  Para a persistência dos dados foi  utilizado o Banco de Dados PostegreSQL, contudo você configurar o Banco de Dados de sua preferência no arquivo: "knexfile.js". Para mais informações acesse a documentação do [knex](http://knexjs.org).
+  Para a persistência dos dados foi  utilizado o Banco de Dados PostegreSQL, contudo você pode configurar o Banco de Dados de sua preferência no arquivo: "knexfile.js". Para mais informações acesse a documentação do [knex](http://knexjs.org).
   Obs: Lembre-se de atualizar o "knexfile.js" de acordo com seu banco, usuário e senha.
   
   ## Make it run
