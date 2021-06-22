@@ -13,6 +13,7 @@
  * Knex
  * Nodemon
  * body-parser
+ * dotenv
   
   ## Configuração
   
@@ -35,3 +36,6 @@
    ## Dificuldades
    Durante a implementação do projeto tentei utilizar o Mysql com o knex, porém após várias tentantivas resolvi reimplementar utilizando postgreSQL e objection.
   
+   ## Estrutura do Projeto
+
+   ![alt line]()
