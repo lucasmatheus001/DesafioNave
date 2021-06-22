@@ -38,4 +38,4 @@
   
    ## Estrutura do Projeto
 
-   ![alt line]()
+   ![alt line](https://github.com/Jardielson-s/DesafioNave/blob/main/estrutura.png)
